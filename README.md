@@ -35,12 +35,11 @@ This research paper evaluates the security risks associated with wearable IoT de
 
 ```
 ├── IPR Submission Proof/
-│   └── Research paper submission form / Screenshot of submission
+│   ├── Research paper
+    └── Submission Proof
 ├── Report and PPT/
-│   ├── Security_Risks_Wearable_IoT___Report.docx    # Project Report (COOP2 Format)
-│   └── security_wearable_iot_devices.pptx            # Presentation
-├── Source Code/
-│   └── (Analysis scripts and tools used in the research)
+│   ├── Security_Risks_Wearable_IoT_Report.md    # Project Report (COOP2 Format)
+│   └── security_wearable_iot_devices.pdf            # Presentation
 └── README.md                                          # This file
 ```
 
@@ -91,14 +90,8 @@ This research paper evaluates the security risks associated with wearable IoT de
 
 ---
 
-## 📜 License
-
-This research paper is submitted in partial fulfilment of the requirements for the award of the degree of **Bachelor of Engineering (Computer Science and Engineering)** at Chitkara University, Punjab, India.
-
----
-
 <p align="center">
   <i>Chitkara University Institute of Engineering and Technology</i><br>
   <i>Department of Computer Science and Engineering</i><br>
-  <i>2025</i>
+  <i>2026</i>
 </p>
